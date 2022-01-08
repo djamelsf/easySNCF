@@ -18,7 +18,7 @@
               />
             </b-navbar-brand>
             <b-nav-item to="/search" class="items">Gares</b-nav-item>
-            <b-nav-item to="/about" class="items">A propos</b-nav-item>
+            <b-nav-item to="/about" class="items">À propos</b-nav-item>
           </b-navbar-nav>
         </div>
       </b-collapse>
